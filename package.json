@@ -1,0 +1,11 @@
+{
+  "name": "weather-now",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A responsive dashboard for searching a place and viewing current conditions plus a five-day forecast from Open-Meteo.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
