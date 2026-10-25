@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "forecast-1",
+      "title": "Sample City today",
+      "place": "Sample City",
+      "temperatureC": 20,
+      "source": "Open-Meteo",
+      "synthetic": true
+    },
+    {
+      "id": "forecast-2",
+      "title": "Sample City tomorrow",
+      "place": "Sample City",
+      "temperatureC": 21,
+      "source": "Open-Meteo",
+      "synthetic": true
+    }
+  ]
+}
